@@ -1,0 +1,52 @@
+My Vs Code Jeson File :
+
+{
+  "php.validate.executablePath": "G:/XMP/php/php.exe",
+  "phpfmt.php_bin": "G:/XMP/php/php.exe",
+  "editor.fontSize": 17,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
+  "editor.formatOnSave": true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "window.zoomLevel": 1,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Andromeda",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#474787",
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
+  },
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontSize": 20,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "workbench.editor.enablePreview": false,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "phpfmt.psr2": false,
+  "phpfmt.exclude": ["AllmanStyleBraces"]
+}
